@@ -1,5 +1,4 @@
-# 🏦 Bank Management System
-
+# 🏦FinCore - Financial Transaction Management System
 A console-based Bank Management System developed using Java, MySQL, and JDBC.
 
 ## 🚀 Features
