@@ -1,0 +1,4 @@
+# Copy this file to db.properties and enter your own local MySQL credentials.
+db.url=jdbc:mysql://localhost:3306/bank?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+db.user=root
+db.password=REPLACE_WITH_YOUR_LOCAL_MYSQL_PASSWORD
